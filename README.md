@@ -1,7 +1,7 @@
 ## Hey! I'm Larry Diego
 
 - 📚 I’m currently Studying at Unifacisa
-- 🌱 I’m currently learning Python as my first programming language
+<!---- 🌱 I’m currently learning Python as my first programming language-->
 - 📫 How to reach me: larry_diego@hotmail.com
 
 ##
